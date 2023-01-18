@@ -56,7 +56,11 @@ Use `:q` to close the current window and the buffer as well
 
 ### Vim command sources
 [Vim buffers](https://linuxhandbook.com/vim-buffers/)
+
+
 [Xiaoqiang
 Zhen](https://www.quora.com/How-do-I-switch-between-panes-in-split-mode-in-Vim)
+
+
 [Complete Guide to Buffers in Vim](https://linuxhandbook.com/vim-buffers/)
 
