@@ -63,6 +63,19 @@ considered as words)
 Press `b` to move the cursor to the previous word (punctuation are considered
 words)
 
+### Editing commands
+
+Press `u` in normal mode to undo your last change to the file (press as many times as you
+need to undo). (You use this command to revert the changes made by other
+command, such as the delete, paste, search and so on.
+
+> Make sure you're typing lowercase `u` command, not the uppercase `U` command
+> Uppercase `U` command undoes all latest changes on one line. If you
+> accidentally type `U` you can undo the change with `u`
+
+Hold `CTRL` and press `r` to redo whatever you last change to the file (While holding `CTRL`, press
+`r` as many times as you want to redo)
+
 ### Saving and directory exploring commands
 
 Use `:e .` to open directory explorer in Vim
