@@ -109,3 +109,5 @@ Zhen](https://www.quora.com/How-do-I-switch-between-panes-in-split-mode-in-Vim)
 
 [Complete Guide to Buffers in Vim](https://linuxhandbook.com/vim-buffers/)
 
+### Customize your vim
+- [How to Turn Vim into a Lightweight IDE](https://stackoverflow.com/questions/2861627/paste-in-insert-mode)
