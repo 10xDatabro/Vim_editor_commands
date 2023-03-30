@@ -97,17 +97,21 @@ Move the cursor to the location where you want to paste the contents
 Press `P` to paste the contents before the cursor, or `p` to paste it after
 the cursor
 
+In command mode (press `ESC` to enter command mode) use:
+type `:pu` to paste your copied text under the current line
+type `:pu!` to paste your copied text before the current line  
+
+
+
+
+
 
 
 ### Vim command sources
-[Vim buffers](https://linuxhandbook.com/vim-buffers/)
-
-
-[Xiaoqiang
-Zhen](https://www.quora.com/How-do-I-switch-between-panes-in-split-mode-in-Vim)
-
-
-[Complete Guide to Buffers in Vim](https://linuxhandbook.com/vim-buffers/)
+- [Vim buffers](https://linuxhandbook.com/vim-buffers/)
+- [Xiaoqiang Zhen](https://www.quora.com/How-do-I-switch-between-panes-in-split-mode-in-Vim)
+- [Complete Guide to Buffers in Vim](https://linuxhandbook.com/vim-buffers/)
+- [How to paste in a new line with vim](https://stackoverflow.com/a/1346747)
 
 ### Customize your vim
 - [How to Turn Vim into a Lightweight IDE](https://stackoverflow.com/questions/2861627/paste-in-insert-mode)
